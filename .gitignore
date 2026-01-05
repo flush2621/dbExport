@@ -1,0 +1,13 @@
+# IDE
+.idea/
+
+# 编译产物
+*.exe
+*.bak
+
+# 日志 / 输出
+logs/
+output/
+
+# Go build cache（如果有）
+bin/
